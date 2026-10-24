@@ -1,1 +1,3 @@
-Github practice
+# practice_github
+
+Описание проекта.
